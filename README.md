@@ -11,7 +11,7 @@ I will create a separate site that stores data about the drumpads and their keys
 ## Technical Details You Don't Really Need To Worry About Yet
 
 The drum pad and sound data will be stored in a similar way to the bankOne data in lines 6 to 52 of the example project. 
-https://github.com/completejavascript/drum-machine/blob/master/src/components/App.js 
+https://github.com/completejavascript/drum-machine/blob/master/src/components/App.js The only difference is that the names ('Heater-1', 'Heater-2', etc.) will be called names instead of ids, since the models will automatically have numerical ids.
 
 I can change the way the data is stored later on if you need me too.
 
